@@ -1,0 +1,45 @@
+## Aeridya
+
+# Port to listen on
+Port = 8000
+
+# Domain name
+Domain = domain.com
+
+# Workers
+Workers = 10
+
+# Development Mode
+Development = true
+
+# Log location (NOTE: use stdout to get term output)
+Log = stdout
+
+# Static file path
+Statics = statics
+
+# HTTPS Setting
+HTTPS = false
+
+# Template file path
+Template = template
+
+CookieHash = aljsfkhbnvkoadfjhbn
+CookieBlock = aifubvjnadbf
+
+;Database
+
+# Database Username
+DBUser = testuser
+
+# Database Name
+DBName = testdb
+
+# Database Password
+DBPass = apassword
+
+# Database Host
+DBHost = localhost
+
+# Database Port
+DBPort = 5432
